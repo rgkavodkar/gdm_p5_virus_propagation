@@ -1,0 +1,54 @@
+Immunization Policy 1
+Given Lower limit 1000
+Given Upper Limit 5501
+Given Step 500
+
+No. of vaccines: 1000
+Highest Eigen Value:  [ 37.10897567]
+With parameter values beta = 0.2 delta = 0.7
+Effective Virus Strength: [ 10.60256448]
+
+No. of vaccines: 1500
+Highest Eigen Value:  [ 33.63233945]
+With parameter values beta = 0.2 delta = 0.7
+Effective Virus Strength: [ 9.60923984]
+
+No. of vaccines: 2000
+Highest Eigen Value:  [ 23.5850039]
+With parameter values beta = 0.2 delta = 0.7
+Effective Virus Strength: [ 6.73857254]
+
+No. of vaccines: 2500
+Highest Eigen Value:  [ 31.85361423]
+With parameter values beta = 0.2 delta = 0.7
+Effective Virus Strength: [ 9.10103264]
+
+No. of vaccines: 3000
+Highest Eigen Value:  [ 23.24545567]
+With parameter values beta = 0.2 delta = 0.7
+Effective Virus Strength: [ 6.64155876]
+
+No. of vaccines: 3500
+Highest Eigen Value:  [ 12.37584403]
+With parameter values beta = 0.2 delta = 0.7
+Effective Virus Strength: [ 3.53595544]
+
+No. of vaccines: 4000
+Highest Eigen Value:  [ 21.32434604]
+With parameter values beta = 0.2 delta = 0.7
+Effective Virus Strength: [ 6.0926703]
+
+No. of vaccines: 4500
+Highest Eigen Value:  [ 10.59289516]
+With parameter values beta = 0.2 delta = 0.7
+Effective Virus Strength: [ 3.02654147]
+
+No. of vaccines: 5000
+Highest Eigen Value:  [ 3.76281245]
+With parameter values beta = 0.2 delta = 0.7
+Effective Virus Strength: [ 1.07508927]
+
+No. of vaccines: 5500
+Highest Eigen Value:  [ 1.41421356]
+With parameter values beta = 0.2 delta = 0.7
+Effective Virus Strength: [ 0.40406102]
